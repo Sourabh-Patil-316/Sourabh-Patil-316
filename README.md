@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Sourabh-Patil-316
-- 👀 I’m interested in App Development specially using the Flutter SDK.
-- 🌱 I’m currently doing my Bachelors of Engineering degree in Computer Science and Engineering.
-- 📫 How to reach me - sourabh@techie.com
+Sup Homie? :wave:<br>
+Yeah you guessed it right, I'm still working on my ReadMe file :sweat_smile:. No worries mate, I'll be done with it in a week.<br><br>
+Anyway, this is what's playing in my :headphones: <br>
 
-<!---
-Sourabh-Patil-316/Sourabh-Patil-316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=24mgw7wm1xr1srzfbtdqopkmj&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=24mgw7wm1xr1srzfbtdqopkmj&redirect=true)
